@@ -1,0 +1,19 @@
+{
+  "name": "graph-visualiser",
+  "version": "1.0.0",
+  "description": "Graphs Visualisation in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Victor Lia Fook",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "jasmine": "^4.6.0",
+    "webpack": "^5.77.0"
+  },
+  "dependencies": {
+    "p5": "^1.6.0"
+  }
+}
